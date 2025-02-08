@@ -1,1 +1,1 @@
-# Aqui almacenamos todos los archivos de nuestra primer pagina web
+# Aquí almacenamos todos los archivos de la página web número 1
